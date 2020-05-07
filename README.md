@@ -1,2 +1,1 @@
 Hello! This is the readme for an Odin Project I am working on. The project is to try and rebuild the Google homepage in looks alone. It will not be functional. This is merely practicing the CSS and HTML techniquest that I have been studying. Thats all. 
-jhyhjn
